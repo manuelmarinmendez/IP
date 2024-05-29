@@ -72,8 +72,8 @@ https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e0ff78240cc23f1868ce2a008a92c58d.webp" group-title="varios", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://alternatv.ar/alternatv.png" group-title="varios",AlternaTV
-https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="varios", Canal 10
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/1448
 
 #EXTINF:-1 tvg-id="WTVCanal20.ni" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="varios",WTV Canal 20
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
