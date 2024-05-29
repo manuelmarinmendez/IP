@@ -6,8 +6,8 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="COSTA RICA",Canal 2
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id='751' tvg-name='Teleuno' tvg-logo='https://www.iptvgratis.cl/logocanal/teleuno.png' group-title="COSTA RICA", Teleuno
-https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="varios",Univision
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/82182
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1024px-Repretel_4_logo.png" group-title="varios", Canal 4
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/tracks-v3a1/mono.m3u8
@@ -37,14 +37,14 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/150px-Tigo_Sports_logo.svg.png" group-title="COSTA RICA", TIGO SPORTS
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343091
 
-#EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/logo_web.png" group-title="COSTA RICA", SINART
-https://live-c.cf.dmcdn.net/sec2(_5eZCIXtHQvkVezVsihR-jFHATARP36K9_9Wy_QNGnqlsD7VUmYio8DIAYZ7CQE0rdifnN4VtADRIdW_wmhqwdgHnPzt2bXoBck-GZ9QcdU)/dm/3/x7vh8g3/d/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png" group-title="varios", DISTRITO COMEDIA
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
 
 #EXTINF:-1 tvg-id="14" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4Xm75sJ.png" group-title="COSTA RICA",Canal 14
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://semanariouniversidad.com/wp-content/uploads/2021/04/Logo-canal15.jpeg" group-title="COSTA RICA",Canal 15 UCR
-http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="varios",Las Estrellas HD  
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10938
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp" group-title="varios", Once MX
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1131072.m3u8
@@ -58,6 +58,8 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343087
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_Más_2_Logo.svg/2560px-TD_Más_2_Logo.svg.png" group-title="COSTA RICA",TD+2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343089
 
+#EXTINF:-1 tvg-id='751' tvg-name='Teleuno' tvg-logo='https://www.iptvgratis.cl/logocanal/teleuno.png' group-title="COSTA RICA", Teleuno
+https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 Varios
 
@@ -124,6 +126,17 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85171
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png" group-title="varios",SPACE
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JvLSIAO.png" group-title="varios",Adult Swim Rick and Morty 
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="Ingles",Comet (720p)
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1 tvg-id="USBB19000017U" tvg-chno="1455" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20220621T075823.png" group-title="Ingles",Hallmark Movies & More
+https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:BitMe.svg", BITME
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/442
 NOTICIAS
 
 #EXTINF:-1 tvg-id="USBC10000223W" tvg-chno="1254" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/87/USBC10000223W_20220427T060344.png" group-title="Noticias",CNN Español
@@ -333,7 +346,20 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="905" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Music",Conciertos por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2014/03/vh1_marca.jpg" group-title="Music", VH1
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/496
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg" group-title="Music" , MTV HD
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/497
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/800px-MTV2_logo_2013.svg.png" group-title="Music", MTV 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/498
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Music", MTV LIVE 1
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/499
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Music", MTV LIVE 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/502
 
 #EXTINF:-1,CR | TIGO SPORTS OPC 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343092
