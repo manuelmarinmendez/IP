@@ -66,9 +66,6 @@ Varios
 #EXTINF:-1 group-title="varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" , E! Entertainment  HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13485
 
-#EXTINF:-1 group-title="varios", RTVE
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e0ff78240cc23f1868ce2a008a92c58d.webp" group-title="varios", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
@@ -143,7 +140,14 @@ NOTICIAS
 https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",Canal 24 Horas (720p)
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
+
+#EXTINF:-1 group-title="varios", RTVE
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/js/homescreen/icon.png" group-title="Noticias", RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
+
 
 
 cultura
@@ -356,3 +360,6 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/502
 
 #EXTINF:-1,CR | TIGO SPORTS OPC 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343092
+
+#EXTINF:-1, TEST
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/89a610ef8f184c9397193267ff661ee2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57d1a22064f5d85712b20dab/1c38d533-f9d2-4ab5-82b2-0537450ec659/1.m3u8?aid=51c2f628b440bd797900051f&uid=aN1025r8XAvKs1dWUu6vBJylvR304XnU&sid=QBwC5FBeQItNu6wslEfT3qfbtfXmn3YE&pid=UXaZaWGYn6YqOmiyJkrIgHzUTvMIkbkc&ref=https%3A%2F%2Fwww.24horas.cl%2Fsenal-24hplay&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1721158952149&ot=dzaj1ijDxOf43_Z4UgAgGg&proto=https&pz=us
