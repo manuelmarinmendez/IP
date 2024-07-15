@@ -156,7 +156,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Cultura",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-logo="https://i.imgur.com/vUHAWAJ.png" group-title="Cultura",Pluto TV Naturaleza (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
 
@@ -164,13 +163,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe5
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/310/D3800D9B929EDDD33E4C6B7C3F687607/dsc_lockup-04.png" group-title="Cultura", Discovery Channel Este
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13345
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
 
 #EXTINF:-1 tvg-logo="https://dossiernet.s3.us-west-2.amazonaws.com/images-legacy/animalplanet1202.jpg" group-title="Cultura", Animal Planet
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89221
-
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/310/D3800D9B929EDDD33E4C6B7C3F687607/dsc_lockup-04.png" group-title="Cultura",Discovery Channel  Oeste
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/150px-Discovery_Familia_logo.svg.png" group-title="Cultura", Discovery Familia
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13348
@@ -188,7 +184,7 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13359
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/150px-Discovery_Turbo_logo.svg.png" group-title="Cultura", Discovery Turbo  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13361
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13360
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/150px-World_Discovery_HD_logo.svg.png" group-title="Cultura", Discovery World
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13363
@@ -214,6 +210,11 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13400
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/278px-TLC_Logo.svg.png" group-title="Cultura", TLC  HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13404
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Antena_3_Internacional_logo_2017.svg" group-title="Cultura", Antena 3 (OP1)
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/354058
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Antena_3_Internacional_logo_2017.svg" group-title="Cultura", Antena 3 (OP2)
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/354059
 
 
 pelis
