@@ -143,7 +143,7 @@ https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 
 #EXTINF:-1 group-title="varios", RTVE
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_5.m3u8?hdntl=exp=1721332279~acl=/*~data=hdntl~hmac=6f3c99102a2e47e0878ab8026a151c2006114c3cae22f834044a717e7b640000&
 
 #EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/js/homescreen/icon.png" group-title="Noticias", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
@@ -362,4 +362,4 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/502
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343092
 
 #EXTINF:-1, TEST
-https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-dai/89a610ef8f184c9397193267ff661ee2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57d1a22064f5d85712b20dab/1c38d533-f9d2-4ab5-82b2-0537450ec659/1.m3u8?aid=51c2f628b440bd797900051f&uid=aN1025r8XAvKs1dWUu6vBJylvR304XnU&sid=QBwC5FBeQItNu6wslEfT3qfbtfXmn3YE&pid=UXaZaWGYn6YqOmiyJkrIgHzUTvMIkbkc&ref=https%3A%2F%2Fwww.24horas.cl%2Fsenal-24hplay&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1721158952149&ot=dzaj1ijDxOf43_Z4UgAgGg&proto=https&pz=us
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_5.m3u8
