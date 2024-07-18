@@ -4,13 +4,13 @@
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="COSTA RICA",Canal 2
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/tracks-v3a1/mono.m3u8
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="varios",Univision
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/82182
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/1024px-Repretel_4_logo.png" group-title="varios", Canal 4
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/tracks-v3a1/mono.m3u8
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/original.m3u8
 
 #EXTINF:-1 tvg-id="OPA.cr" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="COSTA RICA",¡OPA!
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
