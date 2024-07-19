@@ -361,5 +361,8 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/502
 #EXTINF:-1,CR | TIGO SPORTS OPC 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343092
 
-#EXTINF:-1, TEST
-https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_5.m3u8
+#EXTINF:-1 tvg-id="500" tvg-name="" tvg-logo="https://www.newslinereport.com/online/nota_telesur-lanza-nueva-imagen-.jpg", Telesur
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="500" tvg-name="" tvg-logo="https://www.newslinereport.com/online/nota_telesur-lanza-nueva-imagen-.jpg", Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
