@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ESBA22000102A" tvg-chno="4260" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBA22000102A_20220914T041126.png" group-title="varios",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturetimeemea-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+
+
+#EXTINF:-1 tvg-id="500" tvg-name="" tvg-logo="https://www.newslinereport.com/online/nota_telesur-lanza-nueva-imagen-.jpg", Telesur
+https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="500" tvg-name="" tvg-logo="https://www.newslinereport.com/online/nota_telesur-lanza-nueva-imagen-.jpg", Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="500" tvg-name="" tvg-logo="https://www.newslinereport.com/online/nota_telesur-lanza-nueva-imagen-.jpg", Telesur
+https://ythls-v3.onrender.com/channel/O9mOtdZ-nSk.m3u8
+
+
+
+.
+....
+# format of the link
+https://ythls-v3.onrender.com/channel/$youtube_channel_id.m3u8
+
+# example
+https://ythls-v3.onrender.com/channel/UCt4t-jeY85JegMlZ-E5UWtA.m3u8
+
+
+https://youtu.be/O9mOtdZ-nSk
