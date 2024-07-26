@@ -1,21 +1,13 @@
 #EXTM3U
-#EXTINF:0 tvg-name="MSNBC" tvg-language="English" tvg-country="US" tvg-id="MSNBC" tvg-logo="https://i.imgur.com/XpZdSKH.gif" group-title="News",MSNBC (News) (US) (English)
-https://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:0 tvg-name="euronews" tvg-id="euro-news" tvg-language="French" tvg-country="FR" tvg-logo="https://i.imgur.com/lMaRRrs.png" group-title="News",FR: Euronews
-https://edge-04.playmedia-cdn.net/origin02/amlst:medi1tv/chunklist_w2056231246_b800000.m3u8
-#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Canal 9 (720p) [Geo-blocked]
-http://201.201.149.86:8080/livestream/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Canal 4 (720p) [Not 24/7]
-https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Canal 4 (720p) [Geo-blocked]
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",IQ Channel (720p)
 https://rtmp.info/iqtv/envivo/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Quince UCR (720p) [Not 24/7]
-http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Teletica 7 (720p) [Geo-blocked]
-https://cdn01.teletica.com/TeleticaLiveStreamCR/Stream/playlist_dvr.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Trece Costa Rica Televisión (720p) [Not 24/7]
-https://rpn3.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",NBC News NOW
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/XpZdSKH.gif" group-title="News",NBC News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-name="Euronews" tvg-id="Euronews" tvg-logo="https://i.imgur.com/lMaRRrs.png" group-title="News", Euronews ewns (es)
+https://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:0 tvg-name="Euronews" tvg-id="Euronews" tvg-logo="https://i.imgur.com/lMaRRrs.png" group-title="News", Euronews ewns (es)
+https://list.iptvcat.com/my_list/s/97f0f758b05f9e198531cc33684b5598.m3u8
