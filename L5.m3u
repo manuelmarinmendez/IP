@@ -389,3 +389,15 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147019
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147020
 #EXTINF:-1 group-title="Futbol",PE | Espn Peru
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147021
+
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",¡OPA! (1080p)
+https://opa.usastreams.com:3101/live/canalopalive.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",FUTV Costa Rica (720p)
+http://45.190.187.226:58092/play/a00q?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Quince UCR (720p) [Not 24/7]
+http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Tica TV+ (288p)
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CR" tvg-logo="" group-title="Undefined",Canal 9 (720p) [Geo-blocked]
+http://201.201.149.86:8080/livestream/stream.m3u8?checkedby:iptvcat.com
+
