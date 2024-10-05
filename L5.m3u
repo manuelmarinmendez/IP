@@ -10,13 +10,13 @@ https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/82182
 
 #EXTINF:-1 tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/Trivisi%C3%B3n+36.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-228191bc-1283-434e-93a5-ef90c46c46c2-oBgck7F" group-title="COSTA RICA", Canal 36
-https://liveingesta119.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
+https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="OPA.cr" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="COSTA RICA",¡OPA!
 https://opa.usastreams.com:3066/live/canalopalive.m3u8
 
 #EXTINF:-1 tvg-id="repretel.6.cr" tvg-name="CR | Repretel 6 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="COSTA RICA", Repretel 6 
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/original.m3u8
+https://d1vr8yxz55pucr.cloudfront.net/live2/alba-cr-repretel-c6_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="COSTA RICA",Teletica 7
 #EXTVLCOPT:http-referrer=https://bradmax.com
@@ -104,9 +104,6 @@ https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="varios",BBC Drama 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="StarTrek.us" tvg-logo="https://i.imgur.com/8cvXYiT.png" group-title="varios",Star Trek (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="varios",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
