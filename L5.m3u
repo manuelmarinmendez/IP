@@ -75,9 +75,6 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/1448
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="varios",WTV Canal 20
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/918px-NASA_logo.svg.png" group-title="varios", NASA TV
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/199513
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="varios",MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
@@ -86,9 +83,6 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/569px-Telemundo_logo_2018.svg.png" group-title="varios", TELEMUNDO INTERNACIONAL
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/765px-Caracol_HD_Internacional.png" group-title="varios", CARACOL INTERNACIONAL
-https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/199323
 
 #EXTINF:-1 tvg-id="ESBA1400008NE" tvg-chno="4405" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/48/ESBA1400008NE_20220713T034534.png" group-title="varios",¡Hola! Play
 https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8?ads.wurl_channel=790&ads.wurl_name=HolaPlay&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -382,16 +376,16 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/499
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Music", MTV LIVE 2
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/502
 
-#EXTINF:-1 group-title="Futbol",CR | TIGO SPORTS OPC 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343092
-#EXTINF:-1 group-title="Futbol",Espn Premium Colombia
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/84964
-#EXTINF:-1 group-title="Futbol",PE | Espn 2 Peru
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147019
-#EXTINF:-1 group-title="Futbol",PE | Espn 3 Peru
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147020
-#EXTINF:-1 group-title="Futbol",PE | Espn Peru
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/147021
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Star Trek",Star Trek
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5&serverSideAds=false&checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Star Trek",Star Trek 2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Star Trek",Star Trek Deep Space Nine
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e&serverSideAds=false&checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Star Trek",Star Trek Voyager
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7&serverSideAds=false&checkedby:iptvcat.com
 
 
