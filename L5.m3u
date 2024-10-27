@@ -7,7 +7,7 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="varios",Univision
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/82182
+**********
 
 #EXTINF:-1 tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/Trivisi%C3%B3n+36.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-228191bc-1283-434e-93a5-ef90c46c46c2-oBgck7F" group-title="COSTA RICA", Canal 36
 https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
@@ -34,43 +34,30 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="repretel.11.cr" tvg-name="CR | Repretel 11 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="COSTA RICA", Repretel 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/150px-Tigo_Sports_logo.svg.png" group-title="COSTA RICA", TIGO SPORTS
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343091
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="varios", LAS ESTRELLAS MX
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png" group-title="varios", DISTRITO COMEDIA
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
+****
 
 #EXTINF:-1 tvg-id="14" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4Xm75sJ.png" group-title="COSTA RICA",Canal 14
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="varios",Las Estrellas HD  
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10938
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d800ee1a28bbee6769de24c5c050c40c.webp" group-title="varios", Once MX
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1131072.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_de_FUTV.svg" group-title="COSTA RICA",FUTV
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343085
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TD_M%C3%A1s_Logo.svg/120px-TD_M%C3%A1s_Logo.svg.png" group-title="COSTA RICA", TD+ 1
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343087
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_Más_2_Logo.svg/2560px-TD_Más_2_Logo.svg.png" group-title="COSTA RICA",TD+2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343089
+**** futv
+****td+
+****td+
 
 #EXTINF:-1 tvg-id='751' tvg-name='Teleuno' tvg-logo='https://www.iptvgratis.cl/logocanal/teleuno.png' group-title="COSTA RICA", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
 Varios
 
-#EXTINF:-1 group-title="varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" , E! Entertainment  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13485
+***  e!
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e0ff78240cc23f1868ce2a008a92c58d.webp" group-title="varios", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="varios", Canal 10
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/1448
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="varios",WTV Canal 20
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
@@ -78,8 +65,7 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="varios",MULTIMEDIOS CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="varios", LAS ESTRELLAS MX
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/569px-Telemundo_logo_2018.svg.png" group-title="varios", TELEMUNDO INTERNACIONAL
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197 
@@ -105,29 +91,6 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MulticanalTelevision.co" tvg-logo="https://i.imgur.com/hPxt2OK.png" group-title="varios",Multicanal Televisión (720p)
 https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/1200px-Star_Channel_2021.png" group-title="varios",STAR CHANNEL
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85146
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="varios",CINECANAL
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85148
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/375px-Cinemax_%28Yellow%29.svg.png" group-title="varios",CINEMAX
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85150
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Paramount_Pics_logo.png/962px-Paramount_Pics_logo.png" group-title="varios",PARAMOUNT
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85152
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/900px-TNT_Logo_2016.svg.png" group-title="varios",TNT
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85164
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/420px-Warner_Channel.svg.png" group-title="varios",WARNER
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85169
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="varios",SONY CHANNEL
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85171
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png" group-title="varios",SPACE
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JvLSIAO.png" group-title="varios",Adult Swim Rick and Morty 
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
@@ -137,9 +100,6 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1 tvg-id="USBB19000017U" tvg-chno="1455" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20220621T075823.png" group-title="Ingles",Hallmark Movies & More
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:BitMe.svg", BITME
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/442
 
 ****NOTICIAS****
 
@@ -175,60 +135,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe5
 
 #EXTINF:-1 tvg-id="PlutoTVViajes.us" tvg-logo="https://i.imgur.com/kFbvw9R.png" group-title="Cultura",Pluto TV Viajes (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/310/D3800D9B929EDDD33E4C6B7C3F687607/dsc_lockup-04.png" group-title="Cultura", Discovery Channel Este
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
-
-#EXTINF:-1 tvg-logo="https://dossiernet.s3.us-west-2.amazonaws.com/images-legacy/animalplanet1202.jpg" group-title="Cultura", Animal Planet
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89221
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/150px-Discovery_Familia_logo.svg.png" group-title="Cultura", Discovery Familia
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13348
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Cultura", Discovery Home & Health
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13350
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Cultura", Discovery Investigation
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13353
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png?20130831215017" group-title="Cultura", Discovery Science
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="Cultura",Discovery Theater  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13359
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/150px-Discovery_Turbo_logo.svg.png" group-title="Cultura", Discovery Turbo  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13360
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/150px-World_Discovery_HD_logo.svg.png" group-title="Cultura", Discovery World
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13363
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HGTV_2010.png/1200px-HGTV_2010.png" group-title="Cultura", HGTV  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/857px-History_Logo.svg.png" group-title="Cultura", History  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13382
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/954px-History2Logo2019.png" group-title="Cultura", History 2  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Cultura", Love Nature  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13388
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/299px-National-Geographic-Logo.svg.png" group-title="Cultura", National Geographic  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13394
-
-#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Cultura", Smithsonian  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13400
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/278px-TLC_Logo.svg.png" group-title="Cultura", TLC  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13404
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Antena_3_Internacional_logo_2017.svg" group-title="Cultura", Antena 3 (OP1)
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/354058
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Antena_3_Internacional_logo_2017.svg" group-title="Cultura", Antena 3 (OP2)
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/354059
 
 
 pelis
@@ -274,34 +180,6 @@ https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-country="ES" tvg-language="" tvg-logo="https://i.imgur.com/kA27xdB.png" group-title="Pelis",TV Shows - Rakuten TV
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-HBO
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85130
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis", HBO 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85132
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO +
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85134
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis", HBO FAMILY OPCION 1
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85136
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO SIGNATURE
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85138
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO POP
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85141
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO MUNDI
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85142
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO XTREME
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85144
-
 
 Musica
 #EXTINF:0 tvg-country="CR" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/f9cd3117-e95c-4406-8f7f-e178cdef05b0/IQ-Channel.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-f9cd3117-e95c-4406-8f7f-e178cdef05b0-oBgaIj2" group-title="Music",IQ Channel (720p)
@@ -361,21 +239,6 @@ https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="905" tvg-logo="https://i.imgur.com/LO0EZhT.png" group-title="Music",Conciertos por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2014/03/vh1_marca.jpg" group-title="Music", VH1
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/496
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg" group-title="Music" , MTV HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/497
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/800px-MTV2_logo_2013.svg.png" group-title="Music", MTV 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/498
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Music", MTV LIVE 1
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/499
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="Music", MTV LIVE 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/502
-
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Star Trek",Star Trek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5&serverSideAds=false&checkedby:iptvcat.com
 
@@ -388,4 +251,19 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Star Trek",Star Trek Voyager
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7&serverSideAds=false&checkedby:iptvcat.com
 
-
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Univision East
+https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Undefined",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Love Nature (720p) [Geo-blocked]
+https://bamus-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NI" tvg-logo="" group-title="Undefined",Canal 10 (1080p)
+https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NI" tvg-logo="" group-title="Undefined",Canal 10 (768p)
+http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NI" tvg-logo="" group-title="Undefined",WTV Canal 20 (720p)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Undefined",Caracol Noticias Ahora (720p)
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Telemundo Noticias Noreste
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b9d8440-9f8c-48af-b204-866c8629d07f&checkedby:iptvcat.com
