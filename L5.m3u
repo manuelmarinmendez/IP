@@ -149,7 +149,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_720.m3u8
 #EXTINF:-1 tvg-logo="https://actualidad.rt.com/static/js/homescreen/icon.png" group-title="Noticias", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
 
-#EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Noticias",Caracol Noticias Ahora (720p)
+#EXTINF:0 tvg-country="CO" tvg-logo="https://yt3.googleusercontent.com/GbWS4FAUjTkj5KinXso5MKfS2SAUvSs6L9jaslwWZCDOhPziHEBiPeQQAwAC2xEE-TRDeuRtfA=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias",Caracol Noticias Ahora (720p)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lrAFsc7C4t12A8gv6_XmQkv3vn30y-N4nmFVoP1h9tT9M=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias",Telemundo Noticias
@@ -385,13 +385,13 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/502
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="Star Trek",Star Trek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5&serverSideAds=false&checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Star Trek",Star Trek 2
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="Star Trek",Star Trek 2
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffc48245-dd1f-42c0-a844-75a8a43e52b0&serverSideAds=false&checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Star Trek",Star Trek Deep Space Nine
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="Star Trek",Star Trek Deep Space Nine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e&serverSideAds=false&checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Star Trek",Star Trek Voyager
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="Star Trek",Star Trek Voyager
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7&serverSideAds=false&checkedby:iptvcat.com
 
 
