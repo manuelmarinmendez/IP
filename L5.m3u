@@ -37,11 +37,14 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/150px-Tigo_Sports_logo.svg.png" group-title="COSTA RICA", TIGO SPORTS
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343091
 
-#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png" group-title="varios", DISTRITO COMEDIA
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.diarioextra.com/wp-content/uploads/2024/11/diario-extra-new-150x60.png" group-title="COSTA RICA",Extra TV
+https://d2axu5ozwr5gk0.cloudfront.net/live2/gxtra-cr-dxtra-tv_480p/chunks.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2axu5ozwr5gk0.cloudfront.net%2Findex.m3u8%22%2Csid%3D%2231a51870-afdc-4cb9-8b69-1f8d8018c5b0%22
 
 #EXTINF:-1 tvg-id="14" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4Xm75sJ.png" group-title="COSTA RICA",Canal 14
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png" group-title="varios", DISTRITO COMEDIA
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="varios",Las Estrellas HD  
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10938
