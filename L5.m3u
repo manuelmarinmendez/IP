@@ -397,4 +397,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="Star Trek",Star Trek Voyager
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7&serverSideAds=false&checkedby:iptvcat.com
 
+#EXTINF:-1,CR | TIGO SPORTS OPC 2
+https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343092
 
