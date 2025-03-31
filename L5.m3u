@@ -64,6 +64,23 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343089
 #EXTINF:-1 tvg-id='751' tvg-name='Teleuno' tvg-logo='https://www.iptvgratis.cl/logocanal/teleuno.png' group-title="COSTA RICA", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
+corea
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://blog.kakaocdn.net/dn/LOmmY/btr4aMc9sqj/VhnkRh8j3pRv8tSfKgbak0/img.png" group-title="Corea",EBS 1
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://blog.kakaocdn.net/dn/LOmmY/btr4aMc9sqj/VhnkRh8j3pRv8tSfKgbak0/img.png" group-title="Corea",EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://blog.kakaocdn.net/dn/LOmmY/btr4aMc9sqj/VhnkRh8j3pRv8tSfKgbak0/img.png" group-title="Corea",EBS+ 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://blog.kakaocdn.net/dn/LOmmY/btr4aMc9sqj/VhnkRh8j3pRv8tSfKgbak0/img.png" group-title="Corea",EBS+ 2
+http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://blog.kakaocdn.net/dn/LOmmY/btr4aMc9sqj/VhnkRh8j3pRv8tSfKgbak0/img.png" group-title="Corea",EBS E 
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8?checkedby:iptvcat.com
+
 Varios
 
 #EXTINF:-1 group-title="varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" , E! Entertainment  HD
