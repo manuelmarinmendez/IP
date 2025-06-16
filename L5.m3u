@@ -146,18 +146,6 @@ https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85171
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png" group-title="varios",SPACE
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85193
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JvLSIAO.png" group-title="varios",Adult Swim Rick and Morty 
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
-
-#EXTINF:-1 tvg-id="Comet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-title="Ingles",Comet (720p)
-http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-
-#EXTINF:-1 tvg-id="USBB19000017U" tvg-chno="1455" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20220621T075823.png" group-title="Ingles",Hallmark Movies & More
-https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Archivo:BitMe.svg", BITME
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/442
-
 ****NOTICIAS****
 
 #EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="Noticias",Canal 24 Horas (720p)
@@ -184,68 +172,53 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 ***cultura***
 
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://images.pluto.tv/channels/5f21ea08007a49000762d349/featuredImage.jpg" group-title="Cultura",Smithsonian Channel Selects (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1
-
-#EXTINF:-1 tvg-id="2" tvg-country="AU;US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Cultura",Smithsonian Channel Asia (1080p)
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Cultura",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-logo="https://i.imgur.com/vUHAWAJ.png" group-title="Cultura",Pluto TV Naturaleza (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="PlutoTVViajes.us" tvg-logo="https://i.imgur.com/kFbvw9R.png" group-title="Cultura",Pluto TV Viajes (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/310/D3800D9B929EDDD33E4C6B7C3F687607/dsc_lockup-04.png" group-title="Cultura", Discovery Channel Este
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13346
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TIS6T1SeXWkCQJAUnLnABCO
 
 #EXTINF:-1 tvg-logo="https://dossiernet.s3.us-west-2.amazonaws.com/images-legacy/animalplanet1202.jpg" group-title="Cultura", Animal Planet
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/89221
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/150px-Discovery_Familia_logo.svg.png" group-title="Cultura", Discovery Familia
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13348
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TI3SzbS1mvQbWxrb3pVps_-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Cultura", Discovery Home & Health
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13350
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TIaMjefS4-NyelswpbwSbSF
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Cultura", Discovery Investigation
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13353
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TL0Dk0zZ1YerP3QaTNj3Nfj
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png?20130831215017" group-title="Cultura", Discovery Science
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13356
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKEnQJxhLWvBQWK_Yesg1a_
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="Cultura",Discovery Theater  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13359
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TIMc8hCMxxeHO0-5Bwl9HP6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/150px-Discovery_Turbo_logo.svg.png" group-title="Cultura", Discovery Turbo  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13360
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLxlJmoJNU2NYNlNnA-YRc1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/150px-World_Discovery_HD_logo.svg.png" group-title="Cultura", Discovery World
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13363
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKFkFM_0G6xufkVzMaL_n_i
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HGTV_2010.png/1200px-HGTV_2010.png" group-title="Cultura", HGTV  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13379
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKTmwWzKp3UmYe15YTwKXoM
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/857px-History_Logo.svg.png" group-title="Cultura", History  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13382
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKLigrPNCHuxcDFhFkaYr8k
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/954px-History2Logo2019.png" group-title="Cultura", History 2  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13384
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKM1n7D-rWspsY_4yRvpRo0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Cultura", Love Nature  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13388
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TK1HeQeA9HMp2SA-6OGHf1M
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/299px-National-Geographic-Logo.svg.png" group-title="Cultura", National Geographic  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13394
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TK_dZ4jL5_da5xOcpktiE1R
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="Cultura", NATGEO WORLD HD
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TK6c1flgSSUNPKt5Wn6Lr9D
 
 #EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Cultura", Smithsonian  HD
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13400
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/278px-TLC_Logo.svg.png" group-title="Cultura", TLC  HD
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/13404
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Antena_3_Internacional_logo_2017.svg" group-title="Cultura", Antena 3 (OP1)
 https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/354058
@@ -279,29 +252,28 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a0009
 HBO
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85130
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLFdTuu0NMQTNeogh7MUoNx
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis", HBO 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85132
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJKSts7pQfrdCTjRJInxfjM
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO +
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85134
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TK-ep7m1MOCN9AP9oYfwG4E
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis", HBO FAMILY OPCION 1
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85136
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis", HBO FAMILY
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKXkFGJkKwQFIpJF86LQ5ZG
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO SIGNATURE
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85138
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLG5etefmc6t6ixb5DLguEX
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO POP
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85141
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TISumW0mXwu6koMYV30YblN
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO MUNDI
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85142
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJrkjuU66I06ph3Ngx8grLn
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO XTREME
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/85144
-
+https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKu7ZTkcP6nlYxO5e0OH9H1
 
 Musica
 #EXTINF:0 tvg-country="CR" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/f9cd3117-e95c-4406-8f7f-e178cdef05b0/IQ-Channel.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-f9cd3117-e95c-4406-8f7f-e178cdef05b0-oBgaIj2" group-title="Music",IQ Channel (720p)
@@ -388,6 +360,4 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="Star Trek",Star Trek Voyager
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7&serverSideAds=false&checkedby:iptvcat.com
 
-#EXTINF:-1,CR | TIGO SPORTS OPC 2
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/343092
 
