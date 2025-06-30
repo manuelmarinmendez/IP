@@ -7,7 +7,7 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/Trivisi%C3%B3n+36.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-228191bc-1283-434e-93a5-ef90c46c46c2-oBgck7F" group-title="COSTA RICA", Canal 36
-https://liveingesta318.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR
+https://liveingesta318.cdnmedia.tv/trivisionlive/rtmp01-1500/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="OPA.cr" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="COSTA RICA",¡OPA!
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w327071003.m3u8
