@@ -7,7 +7,7 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" group-title="varios",Univision
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/82182
+https://list.iptvcat.com/my_list/s/c0c29eff61a54e8ed720b363a5d354fe.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/228191bc-1283-434e-93a5-ef90c46c46c2/Trivisi%C3%B3n+36.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-228191bc-1283-434e-93a5-ef90c46c46c2-oBgck7F" group-title="COSTA RICA", Canal 36
 https://liveingesta318.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR
@@ -34,46 +34,25 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="repretel.11.cr" tvg-name="CR | Repretel 11 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png" group-title="COSTA RICA", Repretel 11
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/150px-Tigo_Sports_logo.svg.png" group-title="COSTA RICA", TIGO SPORTS
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0OuB4dxFF8aQdEXeer_7V48EhM3vcLJw_23lvzFdtU6h
-
-#EXTINF:-1 tvg-logo="https://observador.cr/wp-content/uploads/2022/07/271845982_5447043395325252_5939560593619308869_n-300x300.jpg" group-title="COSTA RICA", Canal 13
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJyf_r1ZhOzKyFX0e8_amot
-
 #EXTINF:-1 tvg-id="14" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4Xm75sJ.png" group-title="COSTA RICA",Canal 14
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.diarioextra.com/wp-content/uploads/2024/11/diario-extra-new-150x60.png" group-title="COSTA RICA",Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png" group-title="varios", DISTRITO COMEDIA
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/564
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="varios",Las Estrellas HD  
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/10938
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/150px-Tigo_Sports_logo.svg.png" group-title="COSTA RICA", TIGO SPORTS
+https://list.iptvcat.com/my_list/s/c20a9b65fb803265502bc4c83f0804a9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_de_FUTV.svg" group-title="COSTA RICA",FUTV
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0OuB4dxFF8aQdEXeer_7V48BoSiCMAeYEM4G-1EuhqHP
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TD_M%C3%A1s_Logo.svg/120px-TD_M%C3%A1s_Logo.svg.png" group-title="COSTA RICA", TD+ 1
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0OuB4dxFF8aQdEXeer_7V49Xh4kafc11uOjuVCrILlbu
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_Más_2_Logo.svg/2560px-TD_Más_2_Logo.svg.png" group-title="COSTA RICA",TD+2
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0OuB4dxFF8aQdEXeer_7V4_xK9RhyiY78U5NImW0Kafq
+https://list.iptvcat.com/my_list/s/539c58f6b5a5873ddcc456dc2d50da15.m3u8
 
 #EXTINF:-1 tvg-id='751' tvg-name='Teleuno' tvg-logo='https://www.iptvgratis.cl/logocanal/teleuno.png' group-title="COSTA RICA", Teleuno
 https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
 
  Varios
 
-#EXTINF:-1 group-title="varios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" , E! Entertainment  HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0OuB4dxFF8aQdEXeer_7V48Cdd2JA1XmjpntH8sye3JO
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e0ff78240cc23f1868ce2a008a92c58d.webp" group-title="varios", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="varios", Canal 10
-https://fenixplay.info:8443/YorlenyMarin15/S9ZpEQgxJd/1448
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jMw3fS3.png" group-title="varios",WTV Canal 20
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
@@ -98,39 +77,6 @@ https://76b6b6e10c404253ad10f7d502258b94.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="varios",BBC Drama 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/1200px-Star_Channel_2021.png" group-title="varios",STAR CHANNEL
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJsUkbqjoCT_OFn0dTAb3ah
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" group-title="varios",CINECANAL
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLz9-SqJDBXt--dObjPVgCe
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/375px-Cinemax_%28Yellow%29.svg.png" group-title="varios",CINEMAX
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLE1Yt6UC5POzKYQAVN7MDt
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Paramount_Pics_logo.png/962px-Paramount_Pics_logo.png" group-title="varios",PARAMOUNT
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKSvXBez0YKPJlyWk6Ku20C
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/900px-TNT_Logo_2016.svg.png" group-title="varios",TNT
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJrxVIe-TqxnPCtrkrkoIR2
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/420px-Warner_Channel.svg.png" group-title="varios",WARNER
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLzIgdlSPoyUb-HrZhl0wie
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="varios",SONY CHANNEL
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TI9ydLGQE3JjqWRa_I9_7gJ
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1200px-SpaceLogo.svg.png" group-title="varios",SPACE
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKm3CqiGjLNHICTvMcI0ElV
-
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/a/x/n/axn.jpg" group-title="varios",AXN
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJMZv0WMJ3CvuXXzNM0jLN7
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2LW8tCG-TBOwvQB7IJw1vRoQfARvypUYUA&s" group-title="varios", FX
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLPaQhgQJGTPBdnhhOKOCSt
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="varios",STUDIO UNIVERSAL
-https://reborned.cc:8443/plaTNTy/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLzIflPS7tqy3OuXQjEInt_
 
 ****NOTICIAS****
 
@@ -157,63 +103,27 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 
 ***cultura***
-
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/310/D3800D9B929EDDD33E4C6B7C3F687607/dsc_lockup-04.png" group-title="Cultura", Discovery Channel Este
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TIS6T1SeXWkCQJAUnLnABCO
-
-#EXTINF:-1 tvg-logo="https://dossiernet.s3.us-west-2.amazonaws.com/images-legacy/animalplanet1202.jpg" group-title="Cultura", Animal Planet
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0OuB4dxFF8aQdEXeer_7V49yhBssHTzGweRMPcgOZBYD
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/150px-Discovery_Familia_logo.svg.png" group-title="Cultura", Discovery Familia
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TI3SzbS1mvQbWxrb3pVps_-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Cultura", Discovery Home & Health
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TIaMjefS4-NyelswpbwSbSF
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="Cultura", Discovery Investigation
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TL0Dk0zZ1YerP3QaTNj3Nfj
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/af/Discovery_Science.png?20130831215017" group-title="Cultura", Discovery Science
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKEnQJxhLWvBQWK_Yesg1a_
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/120px-2015_Discovery_theater_HD_logo.svg.png" group-title="Cultura",Discovery Theater  HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TIMc8hCMxxeHO0-5Bwl9HP6
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/150px-Discovery_Turbo_logo.svg.png" group-title="Cultura", Discovery Turbo  HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLxlJmoJNU2NYNlNnA-YRc1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/150px-World_Discovery_HD_logo.svg.png" group-title="Cultura", Discovery World
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKFkFM_0G6xufkVzMaL_n_i
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/HGTV_2010.png/1200px-HGTV_2010.png" group-title="Cultura", HGTV  HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKTmwWzKp3UmYe15YTwKXoM
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/857px-History_Logo.svg.png" group-title="Cultura", History  HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKLigrPNCHuxcDFhFkaYr8k
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/954px-History2Logo2019.png" group-title="Cultura", History 2  HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKM1n7D-rWspsY_4yRvpRo0
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3jRPof.png" group-title="Cultura", Love Nature  HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TK1HeQeA9HMp2SA-6OGHf1M
+https://list.iptvcat.com/my_list/s/e7a49b44af22f9c00bbd7141f4807e05.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/299px-National-Geographic-Logo.svg.png" group-title="Cultura", National Geographic  HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TK_dZ4jL5_da5xOcpktiE1R
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Cultura",Pluto TV Archivos Forenses (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="Cultura", NATGEO WORLD HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TK6c1flgSSUNPKt5Wn6Lr9D
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Cultura",Pluto TV Los archivos del FBI (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/512px-SmithsonianChannellogo.png" group-title="Cultura", Smithsonian  HD
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0HER96N8_SLQhTlAXvwClyiZTepIP5rPkKsVNiffG9gh
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Cultura",Pluto TV MTV Latino (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg/revision/latest?cb=20220311032018" group-title="Cultura",UNIVERSAL CRIME
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TK360AHfKTGRh6SVWHem3lw
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Cultura",Pluto TV Misterios Medicos (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/smart/width/250/height/250?cb=20220311032056" group-title="Cultura",UNIVERSAL REALITY
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKx3UzCRpSsMhoPup3TkKRD
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Cultura",Pluto TV Mundo (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d103f031154a4172d262b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Antena_3_Internacional_logo_2017.svg" group-title="Cultura", Antena 3 (OP1)
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0OuB4dxFF8aQdEXeer_7V493KVUP_UA5i1LDmQ1c6-oO
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Cultura",Pluto TV Naturaleza (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvcat.com
+
 
 pelis
 #EXTINF:-1 tvg-id="ESBA3300039ZX" tvg-chno="4163" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/ESBA3300039ZX_20220323T081936.png" group-title="Pelis",Tu CinE
@@ -237,42 +147,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181
 #EXTINF:-1 tvg-id="63" tvg-country="US" tvg-language="" tvg-logo="" group-title="Pelis",Pluto TV Cine Família 1 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-HBO
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLFdTuu0NMQTNeogh7MUoNx
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis", HBO 2
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJKSts7pQfrdCTjRJInxfjM
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO +
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TK-ep7m1MOCN9AP9oYfwG4E
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis", HBO FAMILY
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKXkFGJkKwQFIpJF86LQ5ZG
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO SIGNATURE
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TLG5etefmc6t6ixb5DLguEX
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO POP
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TISumW0mXwu6koMYV30YblN
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO MUNDI
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJrkjuU66I06ph3Ngx8grLn
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Logo-700x394.png" group-title="Pelis",HBO XTREME
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKu7ZTkcP6nlYxO5e0OH9H1
-
-UNIVERSAL 
-
-#EXTINF:-1 tvg-logo="https://discovery-content-cr.tigocloud.net/uploads/UNIVERSAL_CINEMA_fb66508d81.svg" group-title="Pelis", UNIVERSAL CINEMA
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TKP7xb4oywN1G4OO5kOc-gV
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/smart/width/250/height/250?cb=20220311031855" group-title="Pelis",UNIVERSAL PREMIERE
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJC5LXT9zyb8qMxncxMWDzy
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c7/UniversalComedy.png/revision/latest?cb=20240130202011&path-prefix=es" group-title="Pelis",UNIVERSAL COMEDY
-https://reborned.cc:8443/play/Y1JMgSU9HbxMNjT7TD0-0N3icSSOfqwDF-wilCy94TJV90swroOu_oW1t_XTukUY
 
 Musica
 #EXTINF:0 tvg-country="CR" tvg-logo="https://www.kolbi.cr/wps/wcm/connect/www.kolbi.cr/f9cd3117-e95c-4406-8f7f-e178cdef05b0/IQ-Channel.png?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_GG1AHCC0P8VB70QI79ARQL0000-f9cd3117-e95c-4406-8f7f-e178cdef05b0-oBgaIj2" group-title="Music",IQ Channel (720p)
@@ -331,6 +205,9 @@ https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f85ca40eda1b10007b967cd" tvg-id="5f85ca40eda1b10007b967cd" tvg-chno="905" tvg-logo="https://i.imgur.com/LO0EZhT.png" group-title="Music",Conciertos por Stingray
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+STAR TREK
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Star_Trek_TOS_logo_%282%29.jpg" group-title="Star Trek",Star Trek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5&serverSideAds=false&checkedby:iptvcat.com
